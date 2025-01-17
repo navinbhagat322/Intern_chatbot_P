@@ -1,3 +1,8 @@
+
+
+
+
+
 # Workflow and Report for PDF-based Chatbot for Conference Call Transcripts
 
 ## Project Overview
@@ -164,4 +169,7 @@ if submit_button and user_input:
 
 ## Conclusion
 This project demonstrates the integration of modern NLP tools to create an interactive and insightful chatbot. It showcases the power of embeddings, vector search, and LLMs to process complex documents and provide relevant answers. With further enhancements, this tool can become a valuable asset in industries like finance, legal, and research.
+
+
+
 
