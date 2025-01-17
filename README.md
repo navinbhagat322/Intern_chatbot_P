@@ -3,7 +3,6 @@
 
 
 
-# Workflow and Report for PDF-based Chatbot for Conference Call Transcripts
 
 ## Project Overview
 The goal of this project is to build a chatbot that can respond to user queries based on the content of uploaded PDF documents. The chatbot uses advanced language models, embeddings, and vector storage to retrieve relevant context from the PDFs and provide meaningful responses. This is particularly useful for analyzing and understanding conference call transcripts.
